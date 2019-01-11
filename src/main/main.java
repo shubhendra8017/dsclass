@@ -6,3 +6,4 @@ public class main {
         System.out.printf("another line");
     }
 }
+
