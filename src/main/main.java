@@ -9,10 +9,13 @@ public class main {
         stack js = new stack();
         js.push(10);
         js.push(20);
-        System.out.println(js.peek());
+        js.push(20);
+        js.push(20);
+        js.push(20);
+        //System.out.println(js.peek());
         js.push(30);
-       System.out.println(js.pop());
-        js.show();
+       //System.out.println(js.pop());
+        //js.show();
 
     }
 }
